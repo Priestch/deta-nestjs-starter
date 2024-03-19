@@ -7,13 +7,18 @@ to make it easy to get you started. This starter is generated using the NestJS C
 ```bash
 git clone https://github.com/Priestch/deta-nestjs-starter.git && cd deta-nestjs-starter
 
+# Create a new Deta Micro instance
 space new
 # Follow the prompts and you are good to go
 
+# Push to Deta
 space push
 
+# It takes seconds to deploy.
+# Once successfully deployed, you should see message like this
+# ✓ Successfully pushed your code and updated your Builder instance!
+# Builder instance: https://nestjsstarter-1-k1690852.deta.app
+
 ```
-Clone the repo and run `space new`, make sure you have the Deta Space CLI installed. If you encounter any issues, please
-refer to the official [documentation](https://deta.space/docs/en/build/new-apps).
 
 
