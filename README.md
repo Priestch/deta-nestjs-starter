@@ -1,4 +1,4 @@
-# The Quick NestJS Starter of Deta Space
+# The NestJS Starter of Deta Space
 
 It took me some time to figure out how to deploy a NestJS app to [Deta](https://deta.space/), So I created this starter
 to make it easy to get you started. This starter is generated using the NestJS CLI. 
